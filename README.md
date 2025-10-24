@@ -61,7 +61,7 @@
     <td>
       <h4>📊 Data Visualization</h4>
       <p>
-        <img src="icons/powerbi.jpg" width="40" title="Power BI"/>
+        <img src="PNG/Power-BI.png" width="40" title="Power BI"/>
         <img src="icons/tableaueu.jpg" width="40" title="Tableau"/>
         <img src="icons/excel.png" width="40" title="Excel"/>
       </p>
