@@ -1,35 +1,66 @@
-## Hi there 👋
 
 
-I’m a Data Analyst passionate about transforming data into insights that inspire action. My journey blends technical skills and community development, using analytics not only to solve problems but also to empower people.
+<h1 align="center">
+  Hi there 👋, I'm 
+  <a href="https://linkedin.com/in/haadi-yakubu" style="color:#3498db;" target="_blank">
+    Haadi Yakubu
+  </a>
+</h1>
+<hr/>
 
-Skills & Tools
+<ul>
+  <li>A data analyst passionate about turning data into insights that support decision-making and community development.</li>
+  <li>Experienced with tools and techniques for cleaning, analyzing, and visualizing data to uncover meaningful patterns and trends.</li>
+  <li>Skilled in:
+    <ul>
+      <li>Data Cleaning and Preparation</li>
+      <li>Exploratory Data Analysis</li>
+      <li>Reporting and Insights Communication</li>
+      <li>Excel-Based Analysis</li>
+      <li>Data Visualization and Dashboard Design</li>
+      <li>SQL for Querying and Data Management</li>
+    </ul>
+  </li>
+</ul>
 
-Languages & Querying: SQL, Python, R
+<p align="center">
+  <img src="images/Frontpage.gif" alt="Profile GIF" width="600"/>
+</p>
 
-Data Handling: Excel, Pandas, NumPy
+## 🌐 Connect with Me
+<p align="left">
+  <a href="https://linkedin.com/in/haadi-yakubu" target="_blank" rel="noreferrer">
+    <img src="https://cdn-icons-png.flaticon.com/512/174/174857.png" alt="LinkedIn" width="40" />
+  </a>
 
-Visualization: Tableau, Matplotlib, Seaborn
+  <a href="mailto:hardyyaqub@gmail.com" target="_blank" rel="noreferrer">
+    <img src="https://cdn-icons-png.flaticon.com/512/732/732200.png" alt="Email" width="40" />
+  </a>
+</p>
 
-Other Interests: Data storytelling, dashboards, reporting
+<h2>💻 Tech Stack</h2>
 
-📚 My Learning Path
-
-I’ve sharpened my craft through online courses, workshops, and self-driven projects, constantly experimenting and applying what I learn to real-world scenarios.
-
-🌍 Beyond Data
-
-As a CorpsAfrica volunteer, I’ve used data-driven thinking to support community projects, from improving student literacy with a reading club to designing sustainable solutions like water storage systems.
-
-🚀 What You’ll Find Here
-
-Projects that apply data analysis to community-focused problems
-
-Dashboards, reports, and SQL queries showcasing practical insights
-
-Ongoing learning experiments with new datasets and tools
-
-🤝 Let’s Connect
-
-I’m always open to collaborations, mentorship, or sharing knowledge.
--->
+<table>
+  <tr>
+    <td>
+      <h4>🧠 Programming & Querying</h4>
+      <p>
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="40"/>
+        <img src="icons/sql.png" width="40"/>
+      </p>
+    </td>
+    <td style="width: 2px; background-color: gray;"></td>
+    <td>
+      <h4>📊 Data Analysis & Visualization</h4>
+      <p>
+        <img src="icons/excel.png" width="40"/>
+        <img src="icons/powerbi.jpg" width="40"/>
+        <img src="icons/tableaueu.jpg" width="40"/>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <h4>🛠️ Tools & Environments</h4>
+      <p>
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" wid
