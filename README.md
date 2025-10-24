@@ -46,7 +46,7 @@
       <h4>🧠 Programming & Querying</h4>
       <p>
         <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="40"/>
-        <img src="icons/sql.png" width="40"/>
+        <img src="[icons/sql.png](https://github.com/tandpfun/skill-icons/raw/main/icons/MySQL-Dark.svg)" width="40"/>
       </p>
     </td>
     <td style="width: 2px; background-color: gray;"></td>
@@ -54,7 +54,7 @@
       <h4>📊 Data Analysis & Visualization</h4>
       <p>
         <img src="icons/excel.png" width="40"/>
-        <img src="icons/powerbi.jpg" width="40"/>
+        <img src="[icons/powerbi.jpg](https://github.com/microsoft/PowerBI-Icons/raw/main/SVG/Power-BI.svg)" width="40"/>
         <img src="icons/tableaueu.jpg" width="40"/>
       </p>
     </td>
